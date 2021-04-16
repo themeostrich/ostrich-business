@@ -113,67 +113,67 @@
             <td><i class="fa fa-check"></i> (Limited)</td>
         </tr>
         <tr>
-            <td><strong>Slider</strong></td>
+            <td><strong>Slider Section</strong></td>
             <td><i class="fa fa-check"></i> (Yes)</td>
             <td><i class="fa fa-check"></i> (Limited)</td>
         </tr>
         <tr>
-            <td><strong>Service</strong></td>
+            <td><strong>Service Section</strong></td>
             <td><i class="fa fa-check"></i> (Yes)</td>
             <td><i class="fa fa-check"></i> (Limited)</td>
         </tr>
         <tr>
-            <td><strong>About</strong></td>
+            <td><strong>About Section</strong></td>
             <td><i class="fa fa-check"></i> (Yes)</td>
             <td><i class="fa fa-check"></i> (Limited)</td>
         </tr>
         <tr>
-            <td><strong>Gallery</strong></td>
+            <td><strong>Gallery Section</strong></td>
             <td><i class="fa fa-check"></i> (Yes)</td>
             <td><i class="fa fa-times"></i> (No)</td>
         </tr>
         <tr>
-            <td><strong>CTA</strong></td>
+            <td><strong>CTA Section</strong></td>
             <td><i class="fa fa-check"></i> (Yes)</td>
             <td><i class="fa fa-check"></i> (Limited)</td>
         </tr>
         <tr>
-            <td><strong>Team</strong></td>
+            <td><strong>Team Section</strong></td>
             <td><i class="fa fa-check"></i> (Yes)</td>
             <td><i class="fa fa-check"></i> (Limited)</td>
         </tr>
         <tr>
-            <td><strong>Counter</strong></td>
+            <td><strong>Counter Section</strong></td>
             <td><i class="fa fa-check"></i> (Yes)</td>
             <td><i class="fa fa-times"></i> (No)</td>
         </tr>
         <tr>
-            <td><strong>Pricing</strong></td>
+            <td><strong>Pricing Section</strong></td>
             <td><i class="fa fa-check"></i> (Yes)</td>
             <td><i class="fa fa-times"></i> (No)</td>
         </tr>
         <tr>
-            <td><strong>Testimonial</strong></td>
+            <td><strong>Testimonial Section</strong></td>
             <td><i class="fa fa-check"></i> (Yes)</td>
             <td><i class="fa fa-times"></i> (No)</td>
         </tr>
         <tr>
-            <td><strong>Video</strong></td>
+            <td><strong>Video Section</strong></td>
             <td><i class="fa fa-check"></i> (Yes)</td>
             <td><i class="fa fa-check"></i> (Limited)</td>
         </tr>
         <tr>
-            <td><strong>Client</strong></td>
+            <td><strong>Client Section</strong></td>
             <td><i class="fa fa-check"></i> (Yes)</td>
             <td><i class="fa fa-times"></i> (No)</td>
         </tr>
         <tr>
-            <td><strong>Blog</strong></td>
+            <td><strong>Blog Section</strong></td>
             <td><i class="fa fa-check"></i> (Yes)</td>
             <td><i class="fa fa-check"></i> (Limited)</td>
         </tr>
         <tr>
-            <td><strong>Contact</strong></td>
+            <td><strong>Contact Section</strong></td>
             <td><i class="fa fa-check"></i> (Yes)</td>
             <td><i class="fa fa-times"></i> (No)</td>
         </tr>
