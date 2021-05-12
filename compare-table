@@ -40,12 +40,12 @@
         <tr>
             <td><strong>Color Option</strong></td>
             <td><i class="fa fa-check"></i> (Yes)</td>
-            <td><i class="fa fa-check"></i> (Limited)</td>
+            <td><i class="fa fa-check"></i> (Options: Limited)</td>
         </tr>
         <tr>
             <td><strong>Theme Options</strong></td>
             <td><i class="fa fa-check"></i> (Yes)</td>
-            <td><i class="fa fa-check"></i> (Limited)</td>
+            <td><i class="fa fa-check"></i> (Options: Limited)</td>
         </tr>
          <tr>
             <td><strong>Homepage Sortable</strong></td>
@@ -65,7 +65,7 @@
         <tr>
             <td><strong>Global Layout</strong></td>
             <td><i class="fa fa-check"></i> (Yes)</td>
-            <td><i class="fa fa-check"></i> (Limited)</td>
+            <td><i class="fa fa-check"></i> (Options: Limited)</td>
         </tr>
         <tr>
             <td><strong>Single Posts customizer setting</strong></td>
@@ -80,12 +80,12 @@
         <tr>
             <td><strong>Archive/Blog</strong></td>
             <td><i class="fa fa-check"></i> (Yes)</td>
-            <td><i class="fa fa-check"></i> (Limited)</td>
+            <td><i class="fa fa-check"></i> (Options: Limited)</td>
         </tr>
         <tr>
             <td><strong>Footer options</strong></td>
             <td><i class="fa fa-check"></i> (Yes)</td>
-            <td><i class="fa fa-check"></i> (Limited)</td>
+            <td><i class="fa fa-check"></i> (Options: Limited)</td>
         </tr>
         <tr>
             <td><strong>Enable/Disable footer(Copyright) text</strong></td>
@@ -110,22 +110,22 @@
         <tr>
             <td><strong>Topbar</strong></td>
             <td><i class="fa fa-check"></i> (Yes)</td>
-            <td><i class="fa fa-check"></i> (Limited)</td>
+            <td><i class="fa fa-check"></i> (Options: Limited)</td>
         </tr>
         <tr>
             <td><strong>Slider Section</strong></td>
             <td><i class="fa fa-check"></i> (Yes)</td>
-            <td><i class="fa fa-check"></i> (Limited)</td>
+            <td><i class="fa fa-check"></i> (Options: Limited)</td>
         </tr>
         <tr>
             <td><strong>Service Section</strong></td>
             <td><i class="fa fa-check"></i> (Yes)</td>
-            <td><i class="fa fa-check"></i> (Limited)</td>
+            <td><i class="fa fa-check"></i> (Options: Limited)</td>
         </tr>
         <tr>
             <td><strong>About Section</strong></td>
             <td><i class="fa fa-check"></i> (Yes)</td>
-            <td><i class="fa fa-check"></i> (Limited)</td>
+            <td><i class="fa fa-check"></i> (Options: Limited)</td>
         </tr>
         <tr>
             <td><strong>Gallery Section</strong></td>
@@ -135,12 +135,12 @@
         <tr>
             <td><strong>CTA Section</strong></td>
             <td><i class="fa fa-check"></i> (Yes)</td>
-            <td><i class="fa fa-check"></i> (Limited)</td>
+            <td><i class="fa fa-check"></i> (Options: Limited)</td>
         </tr>
         <tr>
             <td><strong>Team Section</strong></td>
             <td><i class="fa fa-check"></i> (Yes)</td>
-            <td><i class="fa fa-check"></i> (Limited)</td>
+            <td><i class="fa fa-check"></i> (Options: Limited)</td>
         </tr>
         <tr>
             <td><strong>Counter Section</strong></td>
@@ -160,7 +160,7 @@
         <tr>
             <td><strong>Video Section</strong></td>
             <td><i class="fa fa-check"></i> (Yes)</td>
-            <td><i class="fa fa-check"></i> (Limited)</td>
+            <td><i class="fa fa-check"></i> (Options: Limited)</td>
         </tr>
         <tr>
             <td><strong>Client Section</strong></td>
@@ -170,7 +170,7 @@
         <tr>
             <td><strong>Blog Section</strong></td>
             <td><i class="fa fa-check"></i> (Yes)</td>
-            <td><i class="fa fa-check"></i> (Limited)</td>
+            <td><i class="fa fa-check"></i> (Options: Limited)</td>
         </tr>
         <tr>
             <td><strong>Contact Section</strong></td>
